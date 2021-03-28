@@ -1,4 +1,4 @@
-# covid_travel_impact
+# COVID county travel impact
 
 Analysis on the impact of COVID lockdowns on travel patterns by county.
 
